@@ -1,4 +1,4 @@
-def employeeInformation(name, ssn, position):
+def employeeInformation(name="", ssn="000-000-000", position=""):
     print("Name:", name)
     print("Ssn:", ssn)
     print("Position:", position)
